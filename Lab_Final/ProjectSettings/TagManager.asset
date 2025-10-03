@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Boss
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - EnemyDetectionZone
+  - EnemyAttackZone
+  - PlayerAttackZone
+  - GroundDetection
+  - Pickup
+  - Shuriken
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1661846555
+    locked: 0
+  - name: Ground
+    uniqueID: 1299922703
+    locked: 0
+  - name: Enemy
+    uniqueID: 4046474773
+    locked: 0
+  - name: Player
+    uniqueID: 3027876591
+    locked: 0
+  - name: Foreground
+    uniqueID: 3618441553
+    locked: 0
+  m_RenderingLayers:
+  - Default
